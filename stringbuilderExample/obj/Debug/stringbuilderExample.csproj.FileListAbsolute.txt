@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2012\Projects\stringbuilderExample\stringbuilderExample\bin\Debug\stringbuilderExample.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\stringbuilderExample\stringbuilderExample\bin\Debug\stringbuilderExample.exe
+c:\users\administrator\documents\visual studio 2012\Projects\stringbuilderExample\stringbuilderExample\bin\Debug\stringbuilderExample.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\stringbuilderExample\stringbuilderExample\obj\Debug\stringbuilderExample.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\stringbuilderExample\stringbuilderExample\obj\Debug\stringbuilderExample.exe
+c:\users\administrator\documents\visual studio 2012\Projects\stringbuilderExample\stringbuilderExample\obj\Debug\stringbuilderExample.pdb
